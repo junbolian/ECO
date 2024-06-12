@@ -5,14 +5,6 @@ This is the MATLAB code for the Education Competition Optimizer (ECO)
 
 You can use it to solve some optimization problems.
 
-% Educational Competition Optimizer (ECO) source codes (version 1.0)                    %
-
-%                                                                                       %
-
-%  Developed in MATLAB R2023a                                                           %
-
-%  Author & Inventor: Junbo Lian                                                        %
-
 The relevant literature and source code are open source and can be accessed from there.
 
 

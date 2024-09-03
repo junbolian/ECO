@@ -1,7 +1,7 @@
 # Educational-Competition-Optimizer
 
 
-This is the MATLAB/Python code for the Education Competition Optimizer (ECO)
+This is the MATLAB/Python code for the Educational Competition Optimizer (ECO)
 
 You can use it to solve some optimization problems.
 
